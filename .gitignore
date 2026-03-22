@@ -1,5 +1,7 @@
 .DS_Store
 *.gif
 *.png
+!images/*.png
+!images/*.gif
 __pycache__/
 test.ipynb
