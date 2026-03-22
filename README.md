@@ -2,7 +2,7 @@
 
 ## Intro
 
-We perform flow matching on 2D images, including unconditional diffusion, conditional diffusion and alignment with a pre-defined reward model using RL, optimal control theory and PINNs. The code is heavily inspired by Prof. Z. Liu et al's [VGG-Flow](https://vggflow25.github.io) article.
+We perform flow matching on 2D images, including unconditional diffusion, conditional diffusion and alignment with a pre-defined reward model using RL, optimal control theory and PINNs. The code is heavily inspired by Prof. Z. Liu et al's [VGG-Flow](https://vggflow25.github.io) article. Check [this blog](https://marcobisky.github.io/posts/vgg/) out for more details.
 
 
 ## File Description
