@@ -1,0 +1,5 @@
+.DS_Store
+*.gif
+*.png
+__pycache__/
+test.ipynb
